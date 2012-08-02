@@ -1,0 +1,4 @@
+#!/bin/sh
+./netconnectinfo.pl daemon -l http://*:$PORT -m production
+
+

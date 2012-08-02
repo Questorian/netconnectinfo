@@ -1,0 +1,3 @@
+#!/usr/bin/env sh 
+
+./netconnectinfo.pl deploy heroku --appname netconnectinfo

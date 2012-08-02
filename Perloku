@@ -1,4 +1,4 @@
 #!/bin/sh
-./external-ip.pl daemon -l http://*:$PORT -m production
+./netconnectinfo-srv.pl daemon -l http://*:$PORT -m production
 
 
